@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thejaswi-m
 - 👀 I’m interested in Product Enginnering and Data Analysis
-- 🌱 I have experience creating creating scalable microservices on AWS using FastAPI and Data Analysis using python. I’m currently learning PySpark.
+- 🌱 I have experience creating scalable microservices on AWS using FastAPI and Data Analysis using python. I’m currently learning PySpark.
 - 💞️ I’m looking to collaborate on Software Engineering and Data Analytics Works
 - 📫 You can reach me on theju.m@icloud.com
 
